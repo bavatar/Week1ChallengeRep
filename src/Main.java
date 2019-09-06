@@ -220,7 +220,14 @@ public class Main {
                 localStatus = "You have lingered in the Dungeon too long and have been killed by a powerful demon.\n Oh no! You are dead";
             }
         } else if (userResp.equalsIgnoreCase("dark")){
-            localStatus = "You have decided to walk in the dark and fall through a hole in the floor.\n Oh no! You are dead";
+            System.out.println("You see a chest and a closet in the Dungeon.\nWould you like to open the (chest) or (closet)?");
+            userResp = keyboard.nextLine();
+            if (userResp.equalsIgnoreCase("chest")) {
+                localStatus += "You have found Treasure.";
+            }
+            else if (userResp.equalsIgnoreCase("closet")) {
+                localStatus = "A Zombie jumps out of the closet and attacks you.\n Oh no! You are dead";
+            }
         }
         return localStatus;
     }
