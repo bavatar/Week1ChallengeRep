@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="5eacbc8c-cc3a-417b-ae7c-8f5440135014" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Week1Challenge/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Week1Challenge/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,7 +20,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
+            <state relative-caret-position="-4821">
               <caret line="18" column="14" lean-forward="true" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
             </state>
           </provider>
@@ -47,11 +45,11 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="961" />
-    <option name="y" value="8" />
-    <option name="width" value="966" />
-    <option name="height" value="1006" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="411" />
+    <option name="y" value="287" />
+    <option name="width" value="949" />
+    <option name="height" value="599" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -118,15 +116,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1567711222230</updated>
-      <workItem from="1567711227506" duration="16707000" />
+      <workItem from="1567711227506" duration="16987000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16707000" />
+    <option name="totallyTimeSpent" value="16987000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="243" width="966" height="1006" extended-state="1" />
+    <frame x="583" y="68" width="966" height="1006" extended-state="0" />
     <layout>
       <window_info id="Designer" />
       <window_info id="UI Designer" />
@@ -161,7 +159,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
+        <state relative-caret-position="-4821">
           <caret line="18" column="14" lean-forward="true" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
         </state>
       </provider>
